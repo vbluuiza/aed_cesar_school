@@ -1,0 +1,45 @@
+# Arquivos de compilação C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+# Pastas de build
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.ninja
+*.ilk
+*.pdb
+*.idb
+*.class
+# IDEs
+.vscode/
+.idea/
+# Python
+*.pyc
+__pycache__/
+# Outros
+*.log
+*.tmp
+.DS_Store
+*
+!*/
+!*.cpp
+!*.c
+!*.h
+!*.md
+!*.html
+!*.gitignore
+.idea/
+.vscode/
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake-build-debug/
