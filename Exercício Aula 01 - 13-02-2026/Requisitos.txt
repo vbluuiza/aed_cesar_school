@@ -1,0 +1,12 @@
+Obs. 1: Deve ser desenvolvido em C ou C++. 
+Obs. 2: Cuidado para NÃO anexar o .exe.
+Obs. 3: Podem ser enviado no formato: .c, .cpp, .txt, .zip (cuidado para NÃO enviar o .exe). 
+Obs. 4: Não enviar link de GitHub ou qualquer outro repositório.
+
+1) Crie (Q1)
+um programa que leia e apresente os dados de 3 funcionários. Crie uma struct que contenha o nome, idade, salário e a data de nascimento. O que se sabe é que a data de nascimento é do tipo Data, ou seja, uma outra struct que contem os seguintes membros: dia e ano, ambos do tipo inteiro; e mês do tipo string. Crie um vetor de struct para registrar os dados dos 3 funcionários.
+
+2) (Q2) Defina uma struct para estruturar dados de alunos de uma escola. Dentro dessa struct, crie uma variavel para armazenar o nome do aluno, e outras para armazenar as notas de matemática, física e a média dessas duas notas. Após definir a struct, crie três variáveis do tipo struct
+que você criou. Preencha os nomes e as notas dos alunos, calculando automaticamente a média deles.
+
+3) (Q3) Crie um programa que leia a venda de 10 produtos (use um vetor). De cada produto queremos saber o nome, preço, quantidade de um produto vendido, e mostre também o valor total das vendas. Use structs para estruturar os dados.
